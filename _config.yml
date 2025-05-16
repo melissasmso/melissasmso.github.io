@@ -3,7 +3,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Melissa Severino de Oliveira Godoy / Melissa Oliveira"
+title                    : "Melissa Severino de Oliveira Godoy"
 title_separator          : "-"
 name                     : &name "Melissa Severino de Oliveira Godoy"
 description              : &description "PhD Student in Public Policy at Harvard University"
@@ -19,7 +19,7 @@ author:
   location         : "Cambridge, USA and São Paulo, Brazil"
   employer         : "Harvard University"
   email            : "sseverinodeoliveira@fas.harvard.edu"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # orcid          : "https://orcid.org/your-orcid-id"
   linkedin         : "melissa-severino-oliveira"
   # twitter        : "mel_oliveira"

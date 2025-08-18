@@ -1,7 +1,6 @@
 ---
 title: "Chemical Castration as Gender Justice: How Punitive Attitudes Inform Gender Policy Preferences and Voting Behavior among Brazilian Women"
 collection: publications
-permalink: /publication/thesis/
 date: 2024-05-10
 venue: "Stanford Digital Repository"
 link: https://purl.stanford.edu/your-thesis-link   

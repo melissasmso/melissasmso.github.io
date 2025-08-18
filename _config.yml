@@ -150,7 +150,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:publications/:path/
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/

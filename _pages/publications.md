@@ -3,7 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-entries_layout: list   # ensures abstracts/excerpts show
-show_excerpts: true    # make sure _config.yml also has this
+collection: publications     # ← this makes the archive show items from _publications
+entries_layout: list         # list view shows excerpts
 ---
 {% include base_path %}
+

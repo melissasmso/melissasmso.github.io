@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "PoliSci 27SC: Policing, Migration, and Violence in Latin America"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate summer course"
+permalink: https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20242025&q=polisci+27sc&collapse=)
+venue: "Stanford University, Political Science"
+date: 2024-09-01
+location: "Stanford, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course assistant for undergraduate intensive summer course, taught by Professors Beatriz Magaloni-Kerpel and Alberto Díaz-Cayeros. Coordinated the logistics of the course, including office hours, field trips and movie discussions/
 
 Heading 1
 ======

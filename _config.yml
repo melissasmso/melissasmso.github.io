@@ -247,3 +247,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+show_excerpts: true

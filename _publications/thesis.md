@@ -5,11 +5,7 @@ date: 2024-05-10
 venue: "Stanford Digital Repository"
 link: https://purl.stanford.edu/your-thesis-link   
 excerpt: >-
-  This thesis investigates how punitive attitudes shape Brazilian women’s
-  gender policy preferences and voting behavior. Based on 39 interviews
-  and a survey experiment with 1,194 observations, it shows women are
-  broadly progressive on gender issues but split along partisan lines
-  on punishment and abortion.
+  Currently, 19% of the women in the Brazilian Congress are part of Bolsonaro’s party, known for its anti-feminist and pro-punishment stances. At first, this fact seems to contradict expectations based on substantive representation. This concept would predict that women share similar interests and therefore would want to advance similar gender policies once in power. I argue that this apparent contradiction can be better explained by exploring how gender, along with punishment attitudes, interacts with voting choices, a current gap in the literature. This project aims to fill this gap. Specifically, it answers the question: *“How do attitudes towards punishment impact the gender policy preferences and voting behavior of Brazilian women?”* This mixed-methods study works with a novel data set of 39 interviews and 1,194 observations from an online survey experiment. The qualitative data was coded in 2 passes with NVivo, followed by analytic memoing. The quantitative data includes a conjoint experiment and a survey experiment, analyzed with AMCE and logistic regressions. The main findings indicate that Brazilian women mostly have progressive views on gender issues and demand gender policy. However, policy priorities vary when voting, with a division across punishment and abortion, mostly defined along partisan lines. This study contributes to literature on gender, punitive attitudes, and substantive representation.
 ---
 
 **Abstract:**

@@ -3,9 +3,12 @@ title: "The Need for Gender-Attentive Policing: An Analysis of the Impact of Wom
 collection: publications
 venue: "Stanford Digital Repository"
 date: 2025-05-01
-# turn the title into an external link:
 link: https://purl.stanford.edu/vx743by1743
+excerpt: >-
+  Capstone analyzing gender-focused policing strategies (e.g., Women’s Police Stations)
+  and their association with reporting and violence outcomes across Brazilian municipalities.
 ---
+
 
 **Abstract:**  
 Brazilian women live in constant fear of violence, and they have many reasons to be: every hour twenty-six of them are beaten by their partners or family members and every ten minutes one of them is raped. Effective programs to combat gender-based violence (GBV) are a central demand of women in Brazil and Latin America, but evaluating their efficacy is challenging due to limited data and underreporting. This capstone paper discusses the role of gender-focused policing strategies in improving the reporting of GBV and in reducing this type of violence. The police plays a crucial role in combating domestic violence and leads one of Brazil’s largest GBV initiatives: the Women’s Police Stations (WPS). To explore the effectiveness of this program and other gender-attentive policing strategies, this paper asks: What factors correlate with GBV in different municipalities across the country? How does gender-attentive policing play a role in reducing violence and/or improving reporting? And, lastly, how do we distinguish the effects on reported violence and true violence? To answer these, I constructed a dataset of 82,950 municipality-year observations (2009–2023) covering domestic violence, sexual violence, homicides, WPS presence, and police composition/training. I analyzed variables impacting violence through linear regressions, and applied a difference-in-differences analysis to assess the impact of WPS implementation (2020–2022).
